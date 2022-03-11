@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Coockiepickle
-- 👀 I’m interested in creating websites and video games
+- 👋 Hi, I’m Coockiepickle
+- 👀 I’m interested in creating websites, video games and youtube content
 - 🌱 I’m currently learning IT to organizations
 - 📫 How to reach me : mana.live/damienreynaud
 
