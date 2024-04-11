@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Coockiepickle
-- 👀 I’m interested in video games, photography and creating networks
-- 🌱 I’m currently studying for an IT College Diploma
+- ❤️ I love in video games, photography and creating networks
+- 📖 I’m currently studying for an IT College Diploma
 - 📫 How to reach me : mana.live/damienreynaud
 
 <!---
