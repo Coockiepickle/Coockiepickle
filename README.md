@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Coockiepickle
-- 👀 I’m interested in creating websites, video games and youtube content
-- 🌱 I’m currently studying for a Higher Technician Certificate in IT Services to Organizations and I'm also learning cybersecurity
+- 👀 I’m interested in video games, photography and creating networks
+- 🌱 I’m currently studying for an IT College Diploma
 - 📫 How to reach me : mana.live/damienreynaud
 
 <!---
