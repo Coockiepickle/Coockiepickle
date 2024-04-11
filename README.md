@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Coockiepickle
-- ❤️ I love in video games, photography and creating networks
+- ❤️ I love video games, photography and creating networks
 - 📖 I’m currently studying for an IT College Diploma
 - 📫 How to reach me : mana.live/dreynaud
 
