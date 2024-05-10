@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Coockiepickle
 - ❤️ I love video games, photography, networking and cybersecurity
-- 📖 I’m currently studying for an IT College Diploma
+- 📖 I’m currently studying for a computer science College Diploma
 - 📫 How to reach me : mana.live/dreynaud
 
 <!---
