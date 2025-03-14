@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Damien Reynaud and I'm a network student, from France.</h1>
+<h1 align="left">Hi 👋! My name is Damien Reynaud and I'm a network student from France.</h1>
 
 ###
 
