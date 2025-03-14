@@ -46,6 +46,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Coockiepickle/Coockiepickle/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+<img src="https://raw.githubusercontent.com/Coockiepickle/Coockiepickle/output/snake.svg" alt="Snake animation" />
 
 ###
