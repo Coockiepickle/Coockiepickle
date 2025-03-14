@@ -34,14 +34,20 @@
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="38" alt="netlify logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="38" alt="arduino logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="38" alt="windows8 logo"  />
 </div>
+
+###
+
+<h2 align="left"></h2>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Coockiepickle&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" height="145" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Coockiepickle&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="144" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Coockiepickle&theme=redical&area=true&hide_border=false" height="220" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=Coockiepickle&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D" height="144" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Coockiepickle&theme=redical&area=true&hide_border=false&radius=16" height="251" alt="activity-graph graph"  />
 </div>
 
 ###
