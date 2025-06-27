@@ -11,11 +11,15 @@
   <img width="15" />
   <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="38" alt="raspberrypi logo"  />
   <img width="15" />
+  <img src="https://cdn.simpleicons.org/proxmox/E57000" height="38" alt="proxmox logo"  />
+  <img width="15" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="38" alt="docker logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="38" alt="android logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/fdroid/9FE870" height="38" alt="fdroid logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/opensourceinitiative/3DA639" height="38" alt="opensourceinitiative logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/markdown/000000" height="38" alt="markdown logo"  />
   <img width="15" />
