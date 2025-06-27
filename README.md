@@ -37,8 +37,6 @@
   <img width="15" />
   <img src="https://cdn.simpleicons.org/firefox/FF7139" height="38" alt="firefox logo"  />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="38" alt="netlify logo"  />
-  <img width="15" />
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="38" alt="arduino logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/awesomelists/FC60A8" height="38" alt="awesomelists logo"  />
@@ -52,6 +50,7 @@
   <img src="https://cdn.simpleicons.org/tryhackme/212C42" height="38" alt="tryhackme logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="38" alt="windows8 logo"  />
+  <img width="15" />
   <img src="https://cdn.simpleicons.org/atlasos/1A91FF" height="38" alt="atlasos logo"  />
   <img width="15" />
 </div>
