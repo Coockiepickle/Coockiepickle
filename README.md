@@ -9,6 +9,8 @@
   <img width="15" />
   <img src="https://cdn.simpleicons.org/debian/A81D33" height="38" alt="debian logo"  />
   <img width="15" />
+  <img src="https://cdn.simpleicons.org/nixos/5277C3" height="38" alt="nixos logo"  />
+  <img width="15" />
   <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="38" alt="raspberrypi logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/proxmox/E57000" height="38" alt="proxmox logo"  />
@@ -29,9 +31,7 @@
   <img width="15" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="38" alt="bash logo"  />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="38" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="38" alt="vscode logo"  />
+  <img src="https://cdn.simpleicons.org/windsurf/80B3FF" height="38" alt="windsurf logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yunohost/yunohost-original.svg" height="38" alt="yunohost logo"  />
   <img width="15" />
@@ -41,7 +41,19 @@
   <img width="15" />
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="38" alt="arduino logo"  />
   <img width="15" />
+  <img src="https://cdn.simpleicons.org/awesomelists/FC60A8" height="38" alt="awesomelists logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="38" alt="cisco logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/fireship/EB844E" height="38" alt="fireship logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="38" alt="hackthebox logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/tryhackme/212C42" height="38" alt="tryhackme logo"  />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="38" alt="windows8 logo"  />
+  <img src="https://cdn.simpleicons.org/atlasos/1A91FF" height="38" alt="atlasos logo"  />
+  <img width="15" />
 </div>
 
 ###
