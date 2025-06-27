@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm a network student that really likes to code. 🇫🇷</h1>
+<h1 align="left">Hi, I'm a 🇫🇷 network student that really likes to code.</h1>
 
 ###
 
