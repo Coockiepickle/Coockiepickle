@@ -15,7 +15,7 @@
   <img width="15" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="38" alt="android logo"  />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/fdroid/3DDC84" height="38" alt="fdroid logo"  />
+  <img src="https://cdn.simpleicons.org/fdroid/00C300" height="38" alt="fdroid logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/markdown/000000" height="38" alt="markdown logo"  />
   <img width="15" />
