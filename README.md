@@ -17,6 +17,8 @@
   <img width="15" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="38" alt="docker logo"  />
   <img width="15" />
+  <img src="https://cdn.simpleicons.org/gldotinet/636363" height="38" alt="gldotinet logo"  />
+  <img width="15" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="38" alt="android logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/fdroid/9FE870" height="38" alt="fdroid logo"  />
@@ -33,6 +35,8 @@
   <img width="15" />
   <img src="https://cdn.simpleicons.org/windsurf/80B3FF" height="38" alt="windsurf logo"  />
   <img width="15" />
+  <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="38" alt="godotengine logo"  />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yunohost/yunohost-original.svg" height="38" alt="yunohost logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/firefox/FF7139" height="38" alt="firefox logo"  />
@@ -47,7 +51,7 @@
   <img width="15" />
   <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="38" alt="hackthebox logo"  />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/tryhackme/212C42" height="38" alt="tryhackme logo"  />
+  <img src="https://cdn.simpleicons.org/tryhackme/1DA456" height="38" alt="tryhackme logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="38" alt="windows8 logo"  />
   <img width="15" />
