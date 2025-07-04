@@ -13,7 +13,11 @@
   <img width="15" />
   <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="38" alt="raspberrypi logo"  />
   <img width="15" />
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="38" alt="kalilinux logo"  />
+  <img width="15" />
   <img src="https://cdn.simpleicons.org/proxmox/E57000" height="38" alt="proxmox logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/tails/56347C" height="38" alt="tails logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="38" alt="docker logo"  />
   <img width="15" />
