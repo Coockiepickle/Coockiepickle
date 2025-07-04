@@ -6,7 +6,7 @@
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="38" alt="linux logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://cdn.simpleicons.org/debian/A81D33" height="38" alt="debian logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/nixos/5277C3" height="38" alt="nixos logo"  />
