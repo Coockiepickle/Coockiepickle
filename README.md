@@ -69,10 +69,59 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Coockiepickle&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" height="145" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Coockiepickle&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=8&date_format=j%20M%5B%20Y%5D" height="144" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Coockiepickle&theme=redical&area=true&hide_border=false&radius=16" height="251" alt="activity-graph graph"  />
+## My PC specs
+
+<div>
+  <img src="https://img.shields.io/badge/Atlas OS-1A91FF?style=for-the-badge&logo=atlasos&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/Intel%20Core_i7_10700K-0071C5?style=for-the-badge&logo=intel&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/MPG Z490 Gaming Plus-FF0000?style=for-the-badge&logo=msi&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/ZOTAC RTX3080 Trinity OC LHR-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/Vengeance RGB RT 32GB (2x16) 3600MHz CL16 DDR4-000000?style=for-the-badge&logo=corsair&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/Hydro Series H75 V2-000000?style=for-the-badge&logo=corsair&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/PSU RM850x 80Plus Gold-000000?style=for-the-badge&logo=corsair&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/SSD NVMe Force MP510 V2 480 GB-000000?style=for-the-badge&logo=corsair&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/SSD NVMe FireCuda 530 1 TB-6EBE49?style=for-the-badge&logo=seagate&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/HDD BarraCuda 6 TB 5900 RPM-6EBE49?style=for-the-badge&logo=seagate&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/Carbide SPEC OMEGA RGB White-000000?style=for-the-badge&logo=corsair&logoColor=white" /><br>
+</div>
+
+  ###
+  
+## My Gaming/Work Laptop specs
+
+<div>
+  <img src="https://img.shields.io/badge/MSI%20Vector GP66-FF0000?style=for-the-badge&logo=msi&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/Intel%20Core_i7_12700H-0071C5?style=for-the-badge&logo=intel&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/NVIDIA RTX3070 Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/16 GB (4800 MHz) DDR4-FF0000?style=for-the-badge&logo=msi&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/SSD NVMe 970 Evo Plus 1TB-1428A0?style=for-the-badge&logo=samsung&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/SSD NVMe MZVL21T0HCLR 00B00 1TB-1428A0?style=for-the-badge&logo=samsung&logoColor=white" /><br>
+</div>
+
+###
+
+## My Linux Laptop specs
+
+<div>
+  <img src="https://img.shields.io/badge/Parrot OS-15E0ED?style=for-the-badge&logo=parrotsecurity&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/Asus VivoBook X1704ZA-000000?style=for-the-badge&logo=asus&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/Intel%20Core_i7_1255U-0071C5?style=for-the-badge&logo=intel&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/Alder Lake UP3 GT2 (Iris Xe Integrated)-0071C5?style=for-the-badge&logo=intel&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/16 GB DDR4-000000?style=for-the-badge&logo=asus&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/SSD NVMe Solidgm 480 GB-000000?style=for-the-badge&logo=asus&logoColor=white" /><br>
+</div>
+
+###
+
+## My physical server
+Dell 1W7HC Enterprise Class SFF 2.5in SAS-3 12Gbps 15K HDD AL14SXB60ENY
+<div>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/PowerEdge R730 16SFF-007DB8?style=for-the-badge&logo=dell&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/2x Intel Xeon E5 2680 v3-0071C5?style=for-the-badge&logo=intel&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/64GB DDR4-007DB8?style=for-the-badge&logo=dell&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/1W7HC 600 GB 2.5in SAS 3 12Gbps 15K AL14SXB60ENY-007DB8?style=for-the-badge&logo=dell&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/1W7HC 600 GB 2.5in SAS 3 12Gbps 15K AL14SXB60ENY-007DB8?style=for-the-badge&logo=dell&logoColor=white" /><br>
 </div>
 
 ###
