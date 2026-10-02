@@ -1,4 +1,6 @@
-<h1 align="left">Hi, I'm a 🇫🇷 network and system admin that really likes to code.</h1>
+<h1 align="left">Coockiepickle</h1>
+
+<h2>I'm a 🇫🇷 network and system admin that ❤️ everything related to IT</h2>
 
 ###
 
@@ -37,8 +39,6 @@
   <img width="15" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="38" alt="bash logo"  />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/windsurf/80B3FF" height="38" alt="windsurf logo"  />
-  <img width="15" />
   <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="38" alt="godotengine logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yunohost/yunohost-original.svg" height="38" alt="yunohost logo"  />
@@ -46,8 +46,6 @@
   <img src="https://cdn.simpleicons.org/firefox/FF7139" height="38" alt="firefox logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="38" alt="arduino logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/awesomelists/FC60A8" height="38" alt="awesomelists logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="38" alt="cisco logo"  />
   <img width="15" />
@@ -66,63 +64,6 @@
 ###
 
 <h2 align="left"></h2>
-
-###
-
-## My PC specs
-
-<div>
-  <img src="https://img.shields.io/badge/Atlas OS-1A91FF?style=for-the-badge&logo=atlasos&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/Intel%20Core_i7_10700K-0071C5?style=for-the-badge&logo=intel&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/MPG Z490 Gaming Plus-FF0000?style=for-the-badge&logo=msi&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/ZOTAC RTX3080 Trinity OC LHR-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/Vengeance RGB RT 32GB (2x16) 3600MHz CL16 DDR4-000000?style=for-the-badge&logo=corsair&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/Hydro Series H75 V2-000000?style=for-the-badge&logo=corsair&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/PSU RM850x 80Plus Gold-000000?style=for-the-badge&logo=corsair&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/SSD NVMe Force MP510 V2 480 GB-000000?style=for-the-badge&logo=corsair&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/SSD NVMe FireCuda 530 1 TB-6EBE49?style=for-the-badge&logo=seagate&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/HDD BarraCuda 6 TB 5900 RPM-6EBE49?style=for-the-badge&logo=seagate&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/Carbide SPEC OMEGA RGB White-000000?style=for-the-badge&logo=corsair&logoColor=white" /><br>
-</div>
-
-  ###
-  
-## My Gaming/Work Laptop specs
-
-<div>
-  <img src="https://img.shields.io/badge/MSI%20Vector GP66-FF0000?style=for-the-badge&logo=msi&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/Intel%20Core_i7_12700H-0071C5?style=for-the-badge&logo=intel&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/NVIDIA RTX3070 Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/16 GB (4800 MHz) DDR4-FF0000?style=for-the-badge&logo=msi&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/SSD NVMe 970 Evo Plus 1TB-1428A0?style=for-the-badge&logo=samsung&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/SSD NVMe MZVL21T0HCLR 00B00 1TB-1428A0?style=for-the-badge&logo=samsung&logoColor=white" /><br>
-</div>
-
-###
-
-## My Linux Laptop specs
-
-<div>
-  <img src="https://img.shields.io/badge/Parrot OS-15E0ED?style=for-the-badge&logo=parrotsecurity&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/Asus VivoBook X1704ZA-000000?style=for-the-badge&logo=asus&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/Intel%20Core_i7_1255U-0071C5?style=for-the-badge&logo=intel&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/Alder Lake UP3 GT2 (Iris Xe Integrated)-0071C5?style=for-the-badge&logo=intel&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/16 GB DDR4-000000?style=for-the-badge&logo=asus&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/SSD NVMe Solidgm 480 GB-000000?style=for-the-badge&logo=asus&logoColor=white" /><br>
-</div>
-
-###
-
-## My physical server
-Dell 1W7HC Enterprise Class SFF 2.5in SAS-3 12Gbps 15K HDD AL14SXB60ENY
-<div>
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/PowerEdge R730 16SFF-007DB8?style=for-the-badge&logo=dell&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/2x Intel Xeon E5 2680 v3-0071C5?style=for-the-badge&logo=intel&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/64GB DDR4-007DB8?style=for-the-badge&logo=dell&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/1W7HC 600 GB 2.5in SAS 3 12Gbps 15K AL14SXB60ENY-007DB8?style=for-the-badge&logo=dell&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/1W7HC 600 GB 2.5in SAS 3 12Gbps 15K AL14SXB60ENY-007DB8?style=for-the-badge&logo=dell&logoColor=white" /><br>
-</div>
 
 ###
 
